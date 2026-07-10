@@ -19,7 +19,7 @@ A collection of beginner-friendly OpenCV programs written in Python to practice 
 * Resize using scale factors
 * Crop a selected region of the image
 
-#Program 3 - Drawing Shapes
+# Program 3 - Drawing Shapes
 
 * Create a blank image
 * Draw filled circles
@@ -27,14 +27,14 @@ A collection of beginner-friendly OpenCV programs written in Python to practice 
 * Draw lines
 * Add custom text to an image
 
-#Technologies Used
+# Technologies Used
 
 * Python 3
 * OpenCV (`cv2`)
 * NumPy
 
 
-#Learning Outcomes
+# Learning Outcomes
 
 Through these programs, I learned:
 
